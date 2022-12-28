@@ -1,0 +1,13 @@
+.App_body{
+  width: 100%;
+  height: 100%;
+
+}
+.title_initial{
+  display: flex;
+  color: red;
+}
+.logo_img{
+  margin-left: 3%;
+  margin-top: 2%;
+}

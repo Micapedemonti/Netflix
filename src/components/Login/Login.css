@@ -42,6 +42,7 @@
     color: white;
     font-size: 15px;
     font-family:  'Roboto', sans-serif;
+    outline: none;
 }
 
 .btn__form{
@@ -65,8 +66,8 @@
     border-radius: 10px;
 }
 input:focus{
-    border: 4px orange solid;
     color: white;
+    border-bottom: 1px orange solid;
 }
 
 .check_recordar{
@@ -77,5 +78,4 @@ input:focus{
     color:orange;
     font-size: 13px;
     margin-top: 5px;
-    
 }
